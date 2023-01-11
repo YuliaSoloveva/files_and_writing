@@ -1,0 +1,26 @@
+Omlet
+3
+Egg | 2 | pc
+Milk | 100 | ml
+Tomato | 2 | pc
+
+Duck-po-pekinsky
+4
+Duck | 1 | pc
+Water | 2 | l
+Honey | 3 | tb.sp
+Soy sause | 60 | ml
+
+Baked potato
+3
+Potato | 1 | kg
+Garlic | 3 | 1.pc
+Gauda cheese | 100 | gr
+
+Fahitos
+5
+Cow-meat | 500 | gr
+Sweet pepper | 1 | pc
+Lavash | 2 | pc
+Vine ucsus | 1 | big sp
+Tomato | 2 | pc
